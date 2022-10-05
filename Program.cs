@@ -2,9 +2,9 @@
 
 namespace Ejercicio_EY
 {
-    class Program
+    public class Program
     {
-        static void Main(string[] args)
+        public static void Main(string[] args)
         {
             Console.WriteLine("Enter username:");
 
